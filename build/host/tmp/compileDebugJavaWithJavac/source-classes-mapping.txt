@@ -1,0 +1,4 @@
+com/example/tela/host/BuildConfig.java
+ com.example.tela.host.BuildConfig
+com/example/tela/host/MainActivity.java
+ com.example.tela.host.MainActivity

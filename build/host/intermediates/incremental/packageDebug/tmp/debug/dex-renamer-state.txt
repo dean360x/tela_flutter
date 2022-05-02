@@ -1,0 +1,4 @@
+#Thu Apr 28 17:16:31 BRT 2022
+base.0=C\:\\MeusArquivos\\tela\\build\\host\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
